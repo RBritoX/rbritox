@@ -1,6 +1,6 @@
 # Hello World! 👋 I’m Raphael Brito
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/RBritoX)](https://github.com/RBritoX)&nbsp;
+[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/RBritoX)](https://github.com/RBritoX)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone)](https://www.linkedin.com/in/raphaellbrito/)&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:rbritox.js@gmail.com)](mailto:rbritox.js@gmail.com)&nbsp;
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-1F9B12?style=flat&labelColor=1F9B12&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511994661413&text=Olá%20Raphael!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)](https://api.whatsapp.com/send?phone=5511994661413&text=Olá%20Raphael!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)&nbsp;
