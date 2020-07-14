@@ -10,8 +10,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Spotify-1ED561?style=flat-square&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/raphaellbrito?si=_qP5ahrUS0aMlgefqAKJAg)](https://open.spotify.com/user/raphaellbrito?si=_qP5ahrUS0aMlgefqAKJAg) &nbsp; 
 ![Github Badge](https://img.shields.io/badge/-PSN:_RBritoX-1057A1?style=flat-square&logo=PlayStation&logoColor=white)
 
-I’m passionate about interface prototyping and found in Front-End development, a way to unite two passions: programming and design.
-I’m a programmer in constant evolution, always looking to learn new things and I love what I do!
+I’m passionate about interface prototyping and found in Front-End development a way to unite two passions: programming and designing.
+I’m a programmer in constant evolution, always learn new things and I love what I do!
 
 ✍🏼 &nbsp; UX / UI Designer <br/>
 💻 📱 &nbsp; Front-End Developer
