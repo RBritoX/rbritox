@@ -13,22 +13,24 @@
 I’m passionate about interface prototyping and found in Front-End development a way to unite two passions: programming and designing.
 I’m a programmer in constant evolution, always learning new things. I love what I do!
 
-✍🏼 &nbsp; UX / UI Designer <br/>
-💻 📱 &nbsp; Front-End Developer
+**✍🏼 &nbsp; Designing** <br/>
 
-![Figma](https://img.shields.io/badge/-Figma-transparent?style=for-the-badge&logoColor=figma&logo=figma) &nbsp;
-![AdobeXD](https://img.shields.io/badge/-Adobe_XD-transparent?style=for-the-badge&logoColor=adobe-xd&logo=adobe-xd) &nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-transparent?style=for-the-badge&logoColor=photoshop&logo=adobe-photoshop) &nbsp;
+![Figma](https://img.shields.io/badge/-Figma-transparent?style=for-the-badge&logoColor=figma&logo=figma)
+![AdobeXD](https://img.shields.io/badge/-Adobe_XD-transparent?style=for-the-badge&logoColor=adobe-xd&logo=adobe-xd)
+![Photoshop](https://img.shields.io/badge/-Photoshop-transparent?style=for-the-badge&logoColor=photoshop&logo=adobe-photoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-transparent?style=for-the-badge&logoColor=illustrator&logo=adobe-illustrator)<br/>
-![HTML](https://img.shields.io/badge/-HTML-transparent?style=for-the-badge&logoColor=html5&logo=html5) &nbsp;
-![CSS](https://img.shields.io/badge/-CSS-transparent?style=for-the-badge&logoColor=2763EC&logo=css3) &nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-transparent?style=for-the-badge&logoColor=javascript&logo=javascript) &nbsp;
+
+**💻 📱 &nbsp; Programming** <br/>
+
+![HTML](https://img.shields.io/badge/-HTML-transparent?style=for-the-badge&logoColor=html5&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-transparent?style=for-the-badge&logoColor=2763EC&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-transparent?style=for-the-badge&logoColor=javascript&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-transparent?style=for-the-badge&logoColor=0077C7&logo=typescript)<br/>
-![ReactJs](https://img.shields.io/badge/-React.js-transparent?style=for-the-badge&logoColor=react&logo=react) &nbsp;
-![ReactNative](https://img.shields.io/badge/-React_Native-transparent?style=for-the-badge&logoColor=react&logo=react) &nbsp;
+![ReactJs](https://img.shields.io/badge/-React.js-transparent?style=for-the-badge&logoColor=react&logo=react)
+![ReactNative](https://img.shields.io/badge/-React_Native-transparent?style=for-the-badge&logoColor=react&logo=react)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-transparent?style=for-the-badge&logoColor=643195&logo=gatsby)<br/>
-![Node](https://img.shields.io/badge/-Node.js-transparent?style=for-the-badge&logoColor=node.js&logo=node.js) &nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-transparent?style=for-the-badge&logoColor=E034A7&logo=graphql) &nbsp;
+![Node](https://img.shields.io/badge/-Node.js-transparent?style=for-the-badge&logoColor=node.js&logo=node.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-transparent?style=for-the-badge&logoColor=E034A7&logo=graphql)
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-transparent?style=for-the-badge&logoColor=styled-components&logo=styled-components)
 
 💼 &nbsp; I am currently working at [Opah IT Consulting](https://www.opah.com.br/), integrating [Livelo's](https://www.livelo.com.br/) app development team.<br/>
