@@ -1,6 +1,6 @@
 # Hello World! 👋 I’m Raphael Brito
 
-[![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/RBritoX)](https://github.com/RBritoX) &nbsp; 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/RBritoX)](https://github.com/RBritoX) &nbsp; 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone)](https://www.linkedin.com/in/raphaellbrito/) &nbsp; 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:rbritox.js@gmail.com)](mailto:rbritox.js@gmail.com) &nbsp; 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-1F9B12?style=flat&labelColor=1F9B12&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511994661413&text=Olá%20Raphael!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)](https://api.whatsapp.com/send?phone=5511994661413&text=Olá%20Raphael!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você) &nbsp; 
@@ -16,20 +16,20 @@ I’m a programmer in constant evolution, always learning new things. I love wha
 ✍🏼 &nbsp; UX / UI Designer <br/>
 💻 📱 &nbsp; Front-End Developer
 
-![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logoColor=figma&logo=figma) &nbsp;
-![AdobeXD](https://img.shields.io/badge/-Adobe_XD-000?style=flat&logoColor=adobe-xd&logo=adobe-xd) &nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=flat&logoColor=photoshop&logo=adobe-photoshop) &nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-000?style=flat&logoColor=illustrator&logo=adobe-illustrator)<br/>
-![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logoColor=html5&logo=html5) &nbsp;
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logoColor=2763EC&logo=css3) &nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=javascript&logo=javascript) &nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logoColor=0077C7&logo=typescript)<br/>
-![ReactJs](https://img.shields.io/badge/-React.js-000?style=flat&logoColor=react&logo=react) &nbsp;
-![ReactNative](https://img.shields.io/badge/-React_Native-000?style=flat&logoColor=react&logo=react) &nbsp;
-![Gatsby](https://img.shields.io/badge/-Gatsby-000?style=flat&logoColor=643195&logo=gatsby)<br/>
-![Node](https://img.shields.io/badge/-Node.js-000?style=flat&logoColor=node.js&logo=node.js) &nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logoColor=E034A7&logo=graphql) &nbsp;
-![Styled-Components](https://img.shields.io/badge/-Styled_Components-000?style=flat&logoColor=styled-components&logo=styled-components)
+![Figma](https://img.shields.io/badge/-Figma-242A2D?style=flat&logoColor=figma&logo=figma) &nbsp;
+![AdobeXD](https://img.shields.io/badge/-Adobe_XD-242A2D?style=flat&logoColor=adobe-xd&logo=adobe-xd) &nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-242A2D?style=flat&logoColor=photoshop&logo=adobe-photoshop) &nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-242A2D?style=flat&logoColor=illustrator&logo=adobe-illustrator)<br/>
+![HTML](https://img.shields.io/badge/-HTML-242A2D?style=flat&logoColor=html5&logo=html5) &nbsp;
+![CSS](https://img.shields.io/badge/-CSS-242A2D?style=flat&logoColor=2763EC&logo=css3) &nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-242A2D?style=flat&logoColor=javascript&logo=javascript) &nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-242A2D?style=flat&logoColor=0077C7&logo=typescript)<br/>
+![ReactJs](https://img.shields.io/badge/-React.js-242A2D?style=flat&logoColor=react&logo=react) &nbsp;
+![ReactNative](https://img.shields.io/badge/-React_Native-242A2D?style=flat&logoColor=react&logo=react) &nbsp;
+![Gatsby](https://img.shields.io/badge/-Gatsby-242A2D?style=flat&logoColor=643195&logo=gatsby)<br/>
+![Node](https://img.shields.io/badge/-Node.js-242A2D?style=flat&logoColor=node.js&logo=node.js) &nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-242A2D?style=flat&logoColor=E034A7&logo=graphql) &nbsp;
+![Styled-Components](https://img.shields.io/badge/-Styled_Components-242A2D?style=flat&logoColor=styled-components&logo=styled-components)
 
 💼 &nbsp; I am currently working at [Opah IT Consulting](https://www.opah.com.br/), integrating [Livelo's](https://www.livelo.com.br/) app development team.<br/>
 🚀 &nbsp; My focus is on the Front-End, both for Web and Mobile with React.js and React Native.<br/>
