@@ -15,22 +15,22 @@ I’m a programmer in constant evolution, always learning new things. I love wha
 
 🎨 ✍🏼 &nbsp; Designing: <br/>
 
-![Figma](https://img.shields.io/badge/-Figma-000?style=flat&logoColor=figma&logo=figma)
-![AdobeXD](https://img.shields.io/badge/-Adobe_XD-000?style=flat&logoColor=adobe-xd&logo=adobe-xd)
-![Photoshop](https://img.shields.io/badge/-Photoshop-000?style=flat&logoColor=photoshop&logo=adobe-photoshop)
-![Illustrator](https://img.shields.io/badge/-Illustrator-000?style=flat&logoColor=illustrator&logo=adobe-illustrator)<br/>
+![Figma](https://img.shields.io/badge/-Figma-222?style=flat&logoColor=figma&logo=figma)
+![AdobeXD](https://img.shields.io/badge/-Adobe_XD-222?style=flat&logoColor=adobe-xd&logo=adobe-xd)
+![Photoshop](https://img.shields.io/badge/-Photoshop-222?style=flat&logoColor=photoshop&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-222?style=flat&logoColor=illustrator&logo=adobe-illustrator)<br/>
 
 💻 📱 &nbsp; Programming: <br/>
 
-![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logoColor=html5&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logoColor=2763EC&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logoColor=javascript&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logoColor=0077C7&logo=typescript)
-![ReactJs](https://img.shields.io/badge/-React.js-000?style=flat&logoColor=react&logo=react)<br/>
-![ReactNative](https://img.shields.io/badge/-React_Native-000?style=flat&logoColor=react&logo=react)
-![Node](https://img.shields.io/badge/-Node.js-000?style=flat&logoColor=node.js&logo=node.js)
-![Gatsby](https://img.shields.io/badge/-Gatsby-000?style=flat&logoColor=643195&logo=gatsby)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=flat&logoColor=E034A7&logo=graphql)
+![HTML](https://img.shields.io/badge/-HTML-222?style=flat&logoColor=html5&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-222?style=flat&logoColor=2763EC&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222?style=flat&logoColor=javascript&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-222?style=flat&logoColor=0077C7&logo=typescript)
+![ReactJs](https://img.shields.io/badge/-React.js-222?style=flat&logoColor=react&logo=react)<br/>
+![ReactNative](https://img.shields.io/badge/-React_Native-222?style=flat&logoColor=react&logo=react)
+![Node](https://img.shields.io/badge/-Node.js-222?style=flat&logoColor=node.js&logo=node.js)
+![Gatsby](https://img.shields.io/badge/-Gatsby-222?style=flat&logoColor=643195&logo=gatsby)
+![GraphQL](https://img.shields.io/badge/-GraphQL-222?style=flat&logoColor=E034A7&logo=graphql)
 
 💼 &nbsp; I am currently working at [Opah IT Consulting](https://www.opah.com.br/), integrating [Livelo's](https://www.livelo.com.br/) app development team.<br/>
 🚀 &nbsp; My focus is on the Front-End, both for Web and Mobile with React.js and React Native.<br/>
