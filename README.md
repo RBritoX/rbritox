@@ -11,19 +11,19 @@
 ![Github Badge](https://img.shields.io/badge/-PSN:_RBritoX-1057A1?style=flat-square&logo=PlayStation&logoColor=white)
 
 I’m passionate about interface prototyping and found in Front-End development a way to unite two passions: programming and designing.
-I’m a programmer in constant evolution, always learn new things and I love what I do!
+I’m a programmer in constant evolution, always learning new things. I love what I do!
 
 ✍🏼 &nbsp; UX / UI Designer <br/>
 💻 📱 &nbsp; Front-End Developer
 
 💼 &nbsp; I am currently working at [Opah IT Consulting](https://www.opah.com.br/), integrating [Livelo's](https://www.livelo.com.br/) app development team.<br/>
 🚀 &nbsp; My focus is on the Front-End, both for Web and Mobile with React.js and React Native.<br/>
-🤝 &nbsp; I work remotely as a freelancer for companies focused on the client, in my spare time..<br/>
-👍 &nbsp; I seek to help the community in open source projects, related to health, education and security..<br/>
-💬 &nbsp; Ask me about anything and I'll be happy to answer or help you find the answer..<br/>
+🤝 &nbsp; I work remotely as a freelancer for companies focused on the client, in my spare time.<br/>
+👍 &nbsp; I seek to help the community in open source projects, related to health, education and security.<br/>
+💬 &nbsp; Ask me about anything and I'll be happy to answer or help you to find the answer.<br/>
 
-🤘🏻 &nbsp; Rock n Roll is my favorite musical genre.<br/>
-🛹 &nbsp; Skate is my favorite sport, but currently I don't have much time to ride.<br/>
+🤘🏻 &nbsp; Rock n Roll is my favorite kind of music.<br/>
+🛹 &nbsp; Skate is my favorite sport, however I don't have much time to ride.<br/>
 🎮 &nbsp; Playing video games is my favorite hobby.<br/>
 🎬 &nbsp; I like watching movies and series.<br/>
-📚 &nbsp; I read all kinds of books, from biographies to stories or from fantasies to comics.<br/>
+📚 &nbsp; I read all kinds of books, from biographies to histories or from fiction to comics.<br/>
