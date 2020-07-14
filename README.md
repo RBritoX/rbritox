@@ -13,7 +13,7 @@
 I’m passionate about interface prototyping and found in Front-End development a way to unite two passions: programming and designing.
 I’m a programmer in constant evolution, always learning new things. I love what I do!
 
-💼 &nbsp; I am currently working at [Opah IT Consulting](https://www.opah.com.br/), integrating [Livelo's](https://www.livelo.com.br/) app development team.<br/>
+💼 &nbsp; I’m currently working at [Opah IT Consulting](https://www.opah.com.br/), integrating [Livelo's](https://www.livelo.com.br/) app development team.<br/>
 🚀 &nbsp; My focus is on the Front-End, both for Web and Mobile with React.js and React Native.<br/>
 🤝 &nbsp; I work remotely as a freelancer for companies focused on the client, in my spare time.<br/>
 👍 &nbsp; I seek to help the community in open source projects, related to health, education and security.<br/>
