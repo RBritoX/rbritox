@@ -22,10 +22,10 @@ I’m a programmer in constant evolution, always learning new things. I love wha
 ![Illustrator](https://img.shields.io/badge/-Illustrator-242A2D?style=social&logoColor=illustrator&logo=adobe-illustrator)<br/>
 ![HTML](https://img.shields.io/badge/-HTML-242A2D?style=social&logoColor=html5&logo=html5) &nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-242A2D?style=social&logoColor=2763EC&logo=css3) &nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-242A2D?style=social&logoColor=javascript&logo=javascript) &nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-242A2D?style=social&logoColor=yellow&logo=javascript) &nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-242A2D?style=social&logoColor=0077C7&logo=typescript)<br/>
-![ReactJs](https://img.shields.io/badge/-React.js-242A2D?style=social&logoColor=react&logo=react) &nbsp;
-![ReactNative](https://img.shields.io/badge/-React_Native-242A2D?style=social&logoColor=react&logo=react) &nbsp;
+![ReactJs](https://img.shields.io/badge/-React.js-242A2D?style=social&logoColor=blue&logo=react) &nbsp;
+![ReactNative](https://img.shields.io/badge/-React_Native-242A2D?style=social&logoColor=blue&logo=react) &nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsby-242A2D?style=social&logoColor=643195&logo=gatsby)<br/>
 ![Node](https://img.shields.io/badge/-Node.js-242A2D?style=social&logoColor=node.js&logo=node.js) &nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-242A2D?style=social&logoColor=E034A7&logo=graphql) &nbsp;
