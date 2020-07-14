@@ -13,7 +13,7 @@
 I’m passionate about interface prototyping and found in Front-End development a way to unite two passions: programming and designing.
 I’m a programmer in constant evolution, always learning new things. I love what I do!
 
-**✍🏼 &nbsp; Designing** <br/>
+**🎨 ✍🏼 &nbsp; Designing** <br/>
 
 ![Figma](https://img.shields.io/badge/-Figma-transparent?style=for-the-badge&logoColor=figma&logo=figma)
 ![AdobeXD](https://img.shields.io/badge/-Adobe_XD-transparent?style=for-the-badge&logoColor=adobe-xd&logo=adobe-xd)
