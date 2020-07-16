@@ -35,13 +35,13 @@ I’m a programmer in constant evolution, always learning new things. I love wha
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
-![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)<br/>
+![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;<br/>
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
-![Next](https://img.shields.io/badge/-Next.js-000?style=flat&logoColor=fff&logo=next.js)&nbsp;
-![Gatsby](https://img.shields.io/badge/-Gatsby-643195?style=flat&logoColor=fff&logo=gatsby)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat&logoColor=fff&logo=redux)&nbsp;
+![Gatsby](https://img.shields.io/badge/-Gatsb-643195?style=flat&logoColor=fff&logo=gatsby)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E034A7?style=flat&logoColor=fff&logo=graphql)&nbsp;
-![Styled-Components](https://img.shields.io/badge/-Styled_Components-da9e5d?style=flat&logoColor=fff&logo=styled-components)
+![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logoColor=fff&logo=eslint)&nbsp;
+![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=flat&logoColor=fff&logo=prettier)&nbsp;
+![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
 
 ## Curiosities:
 
