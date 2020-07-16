@@ -23,7 +23,7 @@ I’m a programmer in constant evolution, always learning new things. I love wha
 
 🎨 ✍🏼 &nbsp; Designing: <br/>
 
-![Figma](https://img.shields.io/badge/-Figma-FF7262?style=flat&logoColor=fff&logo=figma)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-2C2C2C?style=flat&logoColor=fff&logo=figma)&nbsp;
 ![AdobeXD](https://img.shields.io/badge/-Adobe_XD-2D001F?style=flat&logoColor=fff&logo=adobe-xd)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-2C2C46?style=flat&logoColor=fff&logo=adobe-photoshop)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-261300?style=flat&logoColor=fff&logo=adobe-illustrator)<br/>
@@ -34,11 +34,14 @@ I’m a programmer in constant evolution, always learning new things. I love wha
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=flat&logoColor=fff&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)<br/>
-![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
+![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)<br/>
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
+![Next](https://img.shields.io/badge/-Next.js-000?style=flat&logoColor=fff&logo=next.js)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsby-643195?style=flat&logoColor=fff&logo=gatsby)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-E034A7?style=flat&logoColor=fff&logo=graphql)
+![Redux](https://img.shields.io/badge/-Redux-593D88?style=flat&logoColor=fff&logo=redux)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-E034A7?style=flat&logoColor=fff&logo=graphql)&nbsp;
+![Styled-Components](https://img.shields.io/badge/-Styled_Components-da9e5d?style=flat&logoColor=fff&logo=styled-components)
 
 ## Curiosities:
 
