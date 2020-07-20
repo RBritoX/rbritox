@@ -7,7 +7,8 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1778F2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/RaphaBrito)](https://www.facebook.com/RaphaBrito)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/raphaellbrito)](https://www.instagram.com/raphaellbrito)&nbsp;
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/RaphaelBritoX)](https://twitter.com/RaphaelBritoX)&nbsp;
-[![Twitter Badge](https://img.shields.io/badge/-Spotify-1ED561?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/raphaellbrito?si=_qP5ahrUS0aMlgefqAKJAg)](https://open.spotify.com/user/raphaellbrito?si=_qP5ahrUS0aMlgefqAKJAg)&nbsp;
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1ED561?style=flat&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/raphaellbrito?si=_qP5ahrUS0aMlgefqAKJAg)](https://open.spotify.com/user/raphaellbrito?si=_qP5ahrUS0aMlgefqAKJAg)&nbsp;
+[![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=Twitch&logoColor=white&link=https://www.twitch.tv/rbritox_d20)](https://www.twitch.tv/rbritox_d20)&nbsp;
 ![PlayStation Badge](https://img.shields.io/badge/-PSN:_RBritoX-1057A1?style=flat&logo=PlayStation&logoColor=white)
 
 I’m passionate about interface prototyping and found in Front-End development a way to unite two passions: programming and designing.
