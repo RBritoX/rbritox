@@ -28,10 +28,10 @@ I’m a programmer in constant evolution, always learning new things. I love wha
 
 🎨 ✍🏼 &nbsp; Designing: <br/>
 
-![Figma](https://img.shields.io/badge/-Figma-2C2C2C?style=flat&logoColor=fff&logo=figma)&nbsp;
-![AdobeXD](https://img.shields.io/badge/-Adobe_XD-2D001F?style=flat&logoColor=fff&logo=adobe-xd)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-2C2C46?style=flat&logoColor=fff&logo=adobe-photoshop)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-261300?style=flat&logoColor=fff&logo=adobe-illustrator)<br/>
+![Figma](https://img.shields.io/badge/-Figma-2C2C2C?style=flat&logoColor=figma&logo=figma)&nbsp;
+![AdobeXD](https://img.shields.io/badge/-Adobe_XD-2D001F?style=flat&logoColor=adobe-xd&logo=adobe-xd)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-2C2C46?style=flat&logoColor=adobe-photoshop&logo=adobe-photoshop)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-261300?style=flat&logoColor=adobe-illustrator&logo=adobe-illustrator)<br/>
 
 💻 📱 &nbsp; Programming: <br/>
 
