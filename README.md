@@ -20,7 +20,7 @@ I’m a programmer in constant evolution, always learning new things. I love wha
 👍 &nbsp; I seek to help the community in open source projects, related to health, education and security.<br/>
 💬 &nbsp; Ask me about anything and I'll be happy to answer or help you to find the answer.<br/>
 
-![Rbritox's github stats](https://github-readme-stats.vercel.app/api?username=rbritox&show_icons=true&theme=tokyonight&hide=["contribs","prs","issues"])
+![Rbritox's github stats](https://github-readme-stats.vercel.app/api?username=rbritox&show_icons=true&theme=tokyonight&bg_color=transparent&hide=["contribs","prs","issues"])
 
 
 
