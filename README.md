@@ -25,7 +25,7 @@ I’m a programmer in constant evolution, always learning new things and I love 
 ## Skills:
 
 <a href="https://myoctocat.com/">
-  <img src="https://user-images.githubusercontent.com/34657005/88499089-49027600-cf9b-11ea-9da6-623fc9ee8228.png" alt="Octacat" width="200px" align="right">
+  <img src="https://user-images.githubusercontent.com/34657005/88500545-5f123580-cf9f-11ea-9b74-9b2faf69858b.png" alt="Octacat" width="200px" align="right">
 </a>
 
 🎨 ✍🏼 &nbsp; Designing: <br/>
