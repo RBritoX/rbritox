@@ -57,3 +57,10 @@ I’m a programmer in constant evolution, always learning new things and I love 
 🎮 &nbsp; Playing video games is my favorite hobby.<br/>
 🎬 &nbsp; I like watching movies and series.<br/>
 📚 &nbsp; I read all kinds of books, from biographies to histories or from fiction to comics.<br/>
+
+---
+
+<blockquote align="center">
+  “Talk is cheap. Show me the code.”
+  <br><p><cite>— Linus Torvalds</cite></p>
+</blockquote>
