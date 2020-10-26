@@ -20,13 +20,7 @@ I’m a programmer in constant evolution, always learning new things and I love 
 👍 &nbsp; I have interest to help the community in open source projects, related to health, education and security.<br/>
 💬 &nbsp; Ask me about anything and I'll be happy to answer or help you to find the answer.<br/>
 
-<!-- ![Rbritox's github stats](https://github-readme-stats.vercel.app/api?username=rbritox&show_icons=true&hide=["contribs","prs","issues"]) -->
-
 ## Skills:
-
-<!-- <a href="https://myoctocat.com/" target="_blank">
-  <img src="https://user-images.githubusercontent.com/34657005/88500545-5f123580-cf9f-11ea-9b74-9b2faf69858b.png" alt="Octacat" width="200px" align="right">
-</a> -->
 
 🎨 ✍🏼 &nbsp; Designing: <br/>
 
@@ -49,6 +43,12 @@ I’m a programmer in constant evolution, always learning new things and I love 
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logoColor=fff&logo=eslint)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=flat&logoColor=fff&logo=prettier)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
+
+<div align="center">
+  
+  <img alt="GoStack" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbritox&layout=compact&theme=dark" width="350" />
+  <img alt="GoStack" src="https://github-readme-stats.vercel.app/api?username=rbritox&hide=contribs,issues&show_icons=true&theme=dark" width="540" />
+</div>
 
 ## Curiosities:
 
