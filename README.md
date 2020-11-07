@@ -39,7 +39,7 @@ I’m a programmer in constant evolution, always learning new things and I love 
 ![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;<br/>
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsb-643195?style=flat&logoColor=fff&logo=gatsby)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-E034A7?style=flat&logoColor=fff&logo=graphql)&nbsp;
+![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logoColor=fff&logo=next.js)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logoColor=fff&logo=eslint)&nbsp;
 ![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=flat&logoColor=fff&logo=prettier)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
