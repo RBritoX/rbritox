@@ -49,14 +49,6 @@ I’m a programmer in constant evolution, always learning new things and I love 
   <img alt="GoStack" src="https://github-readme-stats.vercel.app/api?username=rbritox&hide=contribs,issues&show_icons=true&theme=dark" width="500" />
 </div>
 
-## Curiosities:
-
-🤘🏻 &nbsp; Rock n Roll is my favorite kind of music.<br/>
-🛹 &nbsp; Skate is my favorite sport, however I don't have much time to ride.<br/>
-🎮 &nbsp; Playing video games is my favorite hobby.<br/>
-🎬 &nbsp; I like watching movies and series.<br/>
-📚 &nbsp; I read all kinds of books, from biographies to histories or from fiction to comics.<br/>
-
 ---
 
 <blockquote align="center">
