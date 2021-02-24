@@ -45,8 +45,8 @@ I’m a programmer in constant evolution, always learning new things and I love 
 ![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
 
 <div align="center">
-  <img alt="GoStack" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbritox&layout=compact&theme=dark" width="320" />
   <img alt="GoStack" src="https://github-readme-stats.vercel.app/api?username=rbritox&hide=contribs,issues&show_icons=true&theme=dark" width="500" />
+  <img alt="GoStack" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbritox&layout=compact&theme=dark" width="320" />
 </div>
 
 ---
