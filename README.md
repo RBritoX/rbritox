@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/RBritoX)](https://github.com/RBritoX)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone)](https://www.linkedin.com/in/raphaellbrito/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:rbritox.js@gmail.com)](mailto:rbritox.js@gmail.com)&nbsp;phone=5511994661413&text=Olá%20Raphael!%20Vi%20seu%20perfil%20no%20Github%20e%20gostaria%20de%20entrar%20em%20contato%20com%20você)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:rbritox.js@gmail.com)](mailto:rbritox.js@gmail.com)&nbsp;
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/raphaellbrito)](https://www.instagram.com/raphaellbrito)&nbsp;
 [![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=Twitch&logoColor=white&link=https://www.twitch.tv/rapha_brito)](https://www.twitch.tv/rapha_brito)&nbsp;
 
