@@ -11,8 +11,6 @@ I’m a programmer in constant evolution, always learning new things and I love 
 
 💼 &nbsp; I’m currently working at [Conta Simples](https://contasimples.com/), integrating the development team.<br/>
 🚀 &nbsp; My focus is on the Front-End, both for Web and Mobile with React.js and React Native.<br/>
-🤝 &nbsp; I can work in my spare time remotely as a freelancer.<br/>
-👍 &nbsp; I have interest to help the community in open source projects, related to health, education and security.<br/>
 💬 &nbsp; Ask me about anything and I'll be happy to answer or help you to find the answer.<br/>
 
 ## Skills:
