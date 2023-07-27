@@ -2,15 +2,21 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/RBritoX)](https://github.com/RBritoX)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nykollemalone)](https://www.linkedin.com/in/raphaellbrito/)&nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c5392a?style=flat&logo=Gmail&logoColor=white&link=mailto:rbritox.js@gmail.com)](mailto:rbritox.js@gmail.com)&nbsp;
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/raphaellbrito)](https://www.instagram.com/raphaellbrito)&nbsp;
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-9146FF?style=flat&logo=Twitch&logoColor=white&link=https://www.twitch.tv/rapha_brito)](https://www.twitch.tv/rapha_brito)&nbsp;
 
-I’m passionate about interface prototyping and found in Front-End development a way to unite two passions: programming and designing.
-I’m a programmer in constant evolution, always learning new things and I love what I do!
+I'm a Front-End Web and Mobile Developer (React.js / React Native) and a big enthusiast of Interface Design (UX/UI).
 
-💼 &nbsp; I’m currently working at [Conta Simples](https://contasimples.com/), integrating the development team.<br/>
-🚀 &nbsp; My focus is on the Front-End, both for Web and Mobile with React.js and React Native.<br/>
+## Timeline Profissional:
+
+```mermaid
+graph TD
+    M[Walmart.com] -->|Analista de Sistemas| N(May 2013 - Mar 2018)
+    K[Mandaê] -->|Analista de Integração| L(Apr 2018 - Sep 2018)
+    I[Walmart.com] -->|Analista de Sistemas| J(Oct 2018 - Jun 2019)
+    G[Lendico pela FDTE] -->|Desenvolvedor Front-End React.js| H(Aug 2019 - Oct 2019)
+    E[Gorila Invest pela FDTE] -->|Desenvolvedor Mobile React Native| F(Oct 2019 - Nov 2019)
+    C[Livelo pela Opa IT Consulting] -->|Desenvolvedor Mobile React Native| D(Nov 2019 - 2022)
+    A[Conta Simples] -->|Engenheiro de Software Front-End| B((Present))
+```
 
 ## Skills:
 
@@ -26,24 +32,13 @@ I’m a programmer in constant evolution, always learning new things and I love 
 ![HTML](https://img.shields.io/badge/-HTML-E44D25?style=flat&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-254DE6?style=flat&logoColor=fff&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;<br/>
 ![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
-![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;<br/>
-![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
 ![Gatsby](https://img.shields.io/badge/-Gatsb-643195?style=flat&logoColor=fff&logo=gatsby)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logoColor=fff&logo=next.js)&nbsp;
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logoColor=fff&logo=eslint)&nbsp;
-![Prettier](https://img.shields.io/badge/-Prettier-EA5E5E?style=flat&logoColor=fff&logo=prettier)&nbsp;
-![Styled-Components](https://img.shields.io/badge/-Styled_Components-DB9A64?style=flat&logoColor=fff&logo=styled-components)&nbsp;
 
-<div align="center">
-  <img alt="GoStack" src="https://github-readme-stats.vercel.app/api?username=rbritox&hide=contribs,issues&show_icons=true&theme=dark" width="500" />
-  <img alt="GoStack" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbritox&layout=compact&theme=dark" width="320" />
-</div>
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=rbritox&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbritox&langs_count=8&layout=compact&theme=dark)
 
----
 
-<blockquote align="center">
-  “Talk is cheap. Show me the code.”
-  <br><p><cite>— Linus Torvalds</cite></p>
-</blockquote>
