@@ -26,6 +26,3 @@ I'm a Front-End Web and Mobile Developer (React.js / React Native) and a big ent
 ![Gatsby](https://img.shields.io/badge/-Gatsb-643195?style=flat&logoColor=fff&logo=gatsby)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logoColor=fff&logo=next.js)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logoColor=fff&logo=expo)&nbsp;
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=rbritox&show_icons=true&theme=dark&include_all_commits=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rbritox&langs_count=8&layout=compact&theme=dark)
