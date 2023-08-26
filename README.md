@@ -23,6 +23,5 @@ I'm a Front-End Web and Mobile Developer (React.js / React Native) and a big ent
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
 ![ReactJs](https://img.shields.io/badge/-React.js-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-React_Native-18BCEE?style=flat&logoColor=fff&logo=react)&nbsp;
-![Gatsby](https://img.shields.io/badge/-Gatsb-643195?style=flat&logoColor=fff&logo=gatsby)&nbsp;
 ![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logoColor=fff&logo=next.js)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-000000?style=flat&logoColor=fff&logo=expo)&nbsp;
